@@ -1,6 +1,6 @@
 # AWS-docker-container
 
-In this project, I developed a sklearn app with flask on AWS cloud9, and then I containerized it and push it to dockerhub for better scalibility.
+In this project, I developed a sklearn app with flask on AWS cloud9, and then I containerized it and pushed it to dockerhub for better scalibility.
 
 ## Create a `requirements.txt`
 ```bash
